@@ -3,24 +3,24 @@
   {
    "name": "Below upper secondary education",
    "children": [
-    {"name": "Less than primary education"},
-	{"name": "Primary education"},
-	{"name": "Completion of intermediate lower secondary programmes"},
-	{"name": "Lower secondary education"},
-	{"name": "Completion of intermediate upper secondary programmes"}
+        {"name": "Less than primary education","size":0},
+	{"name": "Primary education","size":0},
+	{"name": "Completion of intermediate lower secondary programmes","size":0},
+	{"name": "Lower secondary education","size":0},
+	{"name": "Completion of intermediate upper secondary programmes","size":0}
    ]
   },
   {"name": "Upper secondary or post-secondary non-tertiary education",
    "children": [
-    {"name": "Upper secondary education"},
-	{"name": "Post-secondary non-tertiary education"}
+    {"name": "Upper secondary education","size":0},
+    {"name": "Post-secondary non-tertiary education","size":0}
    ]
   },
   {"name": "Tertiary education",
    "children": [
-    {"name": "Short-cycle tertiary education"},
-	{"name": "Bachelor’s or equivalent education"},
-	{"name": "Master’s or equivalent education"},
-	{"name": "Doctoral or equivalent education"}
-     ]
-   }
+    {"name": "Short-cycle tertiary education","size":0},
+    {"name": "Bachelor’s or equivalent education","size":0},
+    {"name": "Master’s or equivalent education","size":0},
+    {"name": "Doctoral or equivalent education","size":0}
+   ]
+}
